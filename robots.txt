@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aetohthiey.0x003.me/sitemap.xml
